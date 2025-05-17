@@ -27,5 +27,13 @@ These settings appear in the order they were made
 - Other options, such as backup frequency, left at default values
 - (Attempted to restore a test file: It worked)
 
+### Terminal
+#### Privacy and security
+- Grant Terminal full disk access
+#### Terminal settings
+- Duplicate the basic profile
+- Change font size to 20
+- Change background color to RGB: 15,15,15
+
 ### Keyboard (System Settings)
 - Remap the Caps Lock key to ESC
