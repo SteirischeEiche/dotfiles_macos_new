@@ -35,5 +35,9 @@ These settings appear in the order they were made
 - Change font size to 20
 - Change background color to RGB: 15,15,15
 
+### Homebrew and software
+- Install Homebrew (the script also installs Xcode command line tools)
+- Install Librewolf
+
 ### Keyboard (System Settings)
 - Remap the Caps Lock key to ESC
