@@ -4,3 +4,6 @@ alias ll='ls -lAFh'
 alias x='exit'
 # Programs
 alias v='vim'
+# Navigation
+alias ..="cd .."
+alias ...="cd ../.."
