@@ -1,6 +1,6 @@
 syntax enable
 
-" zB "ZZ" wird unten angezeigt
+" ZB "ZZ" wird unten angezeigt
 set showcmd
 
 set relativenumber
@@ -9,3 +9,7 @@ set relativenumber
 set tabstop=3
 set shiftwidth=3
 set expandtab
+
+" Automatisch einrücken
+set autoindent
+set smartindent
