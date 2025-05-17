@@ -7,6 +7,12 @@ alias v='vim'
 # Navigation
 alias ..="cd .."
 alias ...="cd ../.."
+# Git
+alias gc="git commit -m"
+alias gca="git commit -a -m"
+alias gp="git push"
+alias gst="git status"
+alias gadd='git add'
 
 
 # Customize Prompt(s)
