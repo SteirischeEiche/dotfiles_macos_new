@@ -41,3 +41,8 @@ These settings appear in the order they were made
 
 ### Keyboard (System Settings)
 - Remap the Caps Lock key to ESC
+
+### Vim spell check
+- In Vim, enter `:set spelllang=de_de`
+- Now Vim will ask you if it should download a dictionary and a `.sug` file (for suggestions)
+- The two files are stored in `/opt/homebrew/share/vim/vim*/spell`
