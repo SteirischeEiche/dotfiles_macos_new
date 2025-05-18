@@ -13,3 +13,6 @@ set expandtab
 " Automatisch einrücken
 set autoindent
 set smartindent
+
+" Spell Check für Markdown-Dateien aktivieren
+autocmd FileType markdown setlocal spell
