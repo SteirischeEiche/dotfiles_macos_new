@@ -14,5 +14,5 @@ set expandtab
 set autoindent
 set smartindent
 
-" Spell Check für Markdown-Dateien aktivieren
-autocmd FileType markdown setlocal spell
+" Spell Check für Markdown-Dateien aktivieren und auf Deutsch stellen
+autocmd FileType markdown setlocal spell spelllang=de_de
