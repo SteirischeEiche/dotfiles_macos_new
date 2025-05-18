@@ -5,8 +5,9 @@
 - clean: ['~']
 
 - link:
-    ~/.zshrc: zshrc
     ~/.gitconfig: gitconfig
+    ~/.vimrc: vimrc
+    ~/.zshrc: zshrc
 
 #- create:
 #    - ~/downloads
