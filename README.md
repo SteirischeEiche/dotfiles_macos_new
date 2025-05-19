@@ -39,6 +39,12 @@ These settings appear in the order they were made
 - Install Homebrew (the script also installs Xcode command line tools)
 - Install Librewolf
 
+### SSH
+- Generate SSH key
+- Set environment variables for SSH agent
+- Change SSH config to load keys into the SSH agent
+- Add private key to SSH agent
+
 ### Keyboard (System Settings)
 - Remap the Caps Lock key to ESC
 
