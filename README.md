@@ -52,3 +52,11 @@ These settings appear in the order they were made
 - In Vim, enter `:set spelllang=de_de`
 - Now Vim will ask you if it should download a dictionary and a `.sug` file (for suggestions)
 - The two files are stored in `/opt/homebrew/share/vim/vim*/spell/`
+
+### KeePassXC
+#### Installation
+- Update KeePassXC automatically: Yes
+#### Database creation
+- Create database
+- Leave encryption settings at default values
+- Let KeePassXC create a passphrase
