@@ -64,3 +64,18 @@ These settings appear in the order they were made
 ### Public Wi-Fi
 - Connected to public Wi-Fi
 - Public Wi-Fi deleted from the known networks again
+
+### Finder
+```shell
+# Use list view
+defaults write com.apple.finder FXPreferredViewStyle -string "Nlsv"
+# Show path bar
+defaults write com.apple.finder ShowPathbar -bool true
+# Show filename extensions
+defaults write NSGlobalDomain AppleShowAllExtensions -bool true
+# Search the current folder by default
+defaults write com.apple.finder FXDefaultSearchScope -string "SCcf"
+# Keep folders on top when sorting by name
+defaults write com.apple.finder _FXSortFoldersFirst -bool true
+killall Finder
+```
