@@ -60,3 +60,7 @@ These settings appear in the order they were made
 - Create database
 - Leave encryption settings at default values
 - Let KeePassXC create a passphrase
+
+### Public Wi-Fi
+- Connected to public Wi-Fi
+- Public Wi-Fi deleted from the known networks again
