@@ -17,5 +17,9 @@
 #    - ~/downloads
 #    - ~/.vim/undo-history
 
-#- shell:
+- shell:
 #  - [git submodule update --init --recursive, Installing submodules]
+  -
+    command: ./setup_macos.zsh
+    stdout: true
+    stderr: true
