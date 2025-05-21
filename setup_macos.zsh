@@ -18,3 +18,5 @@ defaults write com.apple.finder _FXSortFoldersFirst -bool true
 # Finish macOS Setup
 
 killall Finder
+echo "\n<<< macOS Setup Complete.
+    A logout or restart might be necessary. >>>\n"
