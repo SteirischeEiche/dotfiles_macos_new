@@ -2,6 +2,8 @@
 
 echo "\n<<< Starting macOS Setup >>>\n"
 
+# Finder
+
 # Use list view
 defaults write com.apple.finder FXPreferredViewStyle -string "Nlsv"
 # Show path bar
@@ -12,4 +14,7 @@ defaults write NSGlobalDomain AppleShowAllExtensions -bool true
 defaults write com.apple.finder FXDefaultSearchScope -string "SCcf"
 # Keep folders on top when sorting by name
 defaults write com.apple.finder _FXSortFoldersFirst -bool true
+
+# Finish macOS Setup
+
 killall Finder
