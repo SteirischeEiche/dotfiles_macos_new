@@ -64,3 +64,6 @@ These settings appear in the order they were made
 ### Public Wi-Fi
 - Connected to public Wi-Fi
 - Public Wi-Fi deleted from the known networks again
+
+### uBlock Oirgin
+- Activate _EasyList/uBO - Cookie notices_
