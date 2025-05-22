@@ -67,3 +67,20 @@ These settings appear in the order they were made
 
 ### uBlock Oirgin
 - Activate _EasyList/uBO - Cookie notices_
+
+### KeePassXC browser addon
+- Install addon in LibreWolf
+- Leave _Run in private windows_ off
+
+#### In KeePassXC
+- _Tools_ -> _Settings_ -> _Browser integration_ -> _Enable browser integration_
+- Select Firefox
+- Click on KeePassXC addon icon in browser and establish connection
+- Name connection
+
+#### Activate native messaging
+- Create the following symlink:
+```shell
+ln -s ~/Library/Application\ Support/Mozilla/NativeMessagingHosts ~/Library/Application\ Support/LibreWolf/NativeMessagingHosts
+```
+- The directory `Mozilla/` was created during the installation of KeePassXC addon
