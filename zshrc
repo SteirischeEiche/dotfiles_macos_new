@@ -24,3 +24,9 @@ RPROMPT='%*'
 
 # Set Variables
 export HOMEBREW_CASK_OPTS="--no-quarantine"
+
+
+# Write Handy Functions
+function mkcd() {
+   mkdir -p "$@" && cd "$_";
+}
