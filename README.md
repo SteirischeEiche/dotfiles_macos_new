@@ -84,3 +84,9 @@ These settings appear in the order they were made
 ln -s ~/Library/Application\ Support/Mozilla/NativeMessagingHosts ~/Library/Application\ Support/LibreWolf/NativeMessagingHosts
 ```
 - The directory `Mozilla/` was created during the installation of KeePassXC addon
+
+### SelfControl
+- Install app and run it for the first time
+- This adds a background object
+- SelfConrtol saves its settings under `~/Library/Preferences/org.eyebeam.SelfControl.plist`
+- Back up this file to the cloud
