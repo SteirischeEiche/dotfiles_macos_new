@@ -6,3 +6,5 @@ brew "vim"
 cask "keepassxc"
 # Web browser
 cask "librewolf"
+# Block your own access to distracting websites
+cask "selfcontrol"
