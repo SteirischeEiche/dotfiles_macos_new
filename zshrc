@@ -24,6 +24,8 @@ RPROMPT='%*'
 
 # Set Variables
 export HOMEBREW_CASK_OPTS="--no-quarantine"
+# For boot.dev
+export PATH="$PATH:/Users/louis/Desktop/boot.dev/worldbanc/private/bin"
 
 
 # Write Handy Functions
