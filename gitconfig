@@ -1,3 +1,5 @@
 [user]
 	name = SteirischeEiche
 	email = 210909647+SteirischeEiche@users.noreply.github.com
+[init]
+	defaultBranch = master
