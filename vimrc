@@ -15,4 +15,4 @@ set autoindent
 set smartindent
 
 " Spell Check für Markdown-Dateien aktivieren und auf Deutsch stellen
-autocmd FileType markdown setlocal spell spelllang=de_de
+autocmd FileType markdown setlocal spell spelllang=de_de,en
