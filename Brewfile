@@ -6,6 +6,8 @@ brew "git"
 brew "go"
 # Ambitious Vim-fork focused on extensibility and agility
 brew "neovim"
+# Swiss-army knife of markup format conversion
+brew "pandoc"
 # Vi 'workalike' with many additional features
 brew "vim"
 # Password manager app
