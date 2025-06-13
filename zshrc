@@ -1,6 +1,8 @@
 # Create Aliases
-alias l='ls -F'
-alias ll='ls -lAFh'
+#alias l='ls -F'
+alias l='eza -F'
+#alias ll='ls -lAFh'
+alias ll='eza -lah -F --git'
 alias x='exit'
 # Programs
 alias v='vim'
