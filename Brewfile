@@ -1,3 +1,4 @@
+brew "eza"
 # Clone of cat(1) with syntax highlighting and Git integration
 brew "bat"
 # Distributed revision control system
