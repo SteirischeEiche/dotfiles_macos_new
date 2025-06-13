@@ -30,3 +30,8 @@ export HOMEBREW_CASK_OPTS="--no-quarantine"
 function mkcd() {
    mkdir -p "$@" && cd "$_";
 }
+
+
+# Homebrew Completions
+autoload -Uz compinit
+compinit
