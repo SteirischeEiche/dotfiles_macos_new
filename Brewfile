@@ -1,3 +1,5 @@
+# Clone of cat(1) with syntax highlighting and Git integration
+brew "bat"
 # Distributed revision control system
 brew "git"
 # Vi 'workalike' with many additional features
