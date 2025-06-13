@@ -23,7 +23,6 @@ RPROMPT='%*'
 
 
 # Set Variables
-export PATH="$PATH:$(go env GOPATH)/bin"
 export HOMEBREW_CASK_OPTS="--no-quarantine"
 
 
