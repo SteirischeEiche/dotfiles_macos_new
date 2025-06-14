@@ -15,6 +15,8 @@ alias gca="git commit -a -m"
 alias gp="git push"
 alias gst="git status"
 alias gadd='git add'
+# Homebrew
+alias bbd='brew bundle dump --force --describe'
 
 
 # Customize Prompt(s)
