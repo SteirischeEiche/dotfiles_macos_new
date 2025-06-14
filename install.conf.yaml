@@ -16,6 +16,7 @@
     ~/.librewolf/librewolf.overrides.cfg: librewolf.overrides.cfg
     ~/.vimrc: vimrc
     ~/.zprofile: zprofile
+    ~/.zshenv: zshenv
     ~/.zshrc: zshrc
 
 #- create:
