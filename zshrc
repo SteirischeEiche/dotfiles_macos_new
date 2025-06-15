@@ -18,6 +18,8 @@ alias gadd='git add'
 # Homebrew
 alias bbd='brew bundle dump --force --describe'
 
+alias trail='<<<${(F)path}'
+
 
 # Customize Prompt(s)
 PROMPT='
